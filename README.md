@@ -8,7 +8,12 @@
   <a href="https://discord.com/users/728615034732675112"><img src="https://img.shields.io/badge/Discord-12141c?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-I build Discord bots and the web platforms behind them. I created **Horizon Tool**, a ticket bot for Discord with its own web dashboard and [documentation](https://docs.horizontool.xyz), and I handle everything from the bot to the database. I also run development at **DH Soluções**.
+Full-stack developer specialized in Discord bots and the web platforms that power them. I founded **[Horizon Tool](https://horizontool.xyz)**, a ticket and customer-support platform for Discord, and lead its development end to end: bot architecture, web dashboard, database design, payments, deployment and [documentation](https://docs.horizontool.xyz). At **DH Soluções**, I build custom web applications and automations for businesses.
+
+- **Discord:** bots built with Discord.js, including slash commands, interactive components and support workflows.
+- **Frontend:** dashboards in Next.js and React with Tailwind CSS and login through Discord.
+- **Backend:** Node.js APIs, Prisma and PostgreSQL, plus payment integration.
+- **Delivery:** production deploys on Vercel and cloud hosting, with documentation written for end users.
 
 <code>TypeScript</code> <code>JavaScript</code> <code>Node.js</code> <code>Discord.js</code> <code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Git</code>
 
